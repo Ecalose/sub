@@ -2,7 +2,7 @@
   "name": "SubConverter",
   "description": "Run SubConverter on Heroku.",
   "keywords": ["subconverter"],
-  "website": "https://github.com/tindy2013/heroku-subconverter",
+  "website": "https://github.com/Ecalose/sub",
   "repository": "https://github.com/tindy2013/subconverter",
   "stack": "container",
   "env": {
